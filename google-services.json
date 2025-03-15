@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230428935971",
+    "project_id": "spartans-3bb41",
+    "storage_bucket": "spartans-3bb41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230428935971:android:5fed7b8e967f77dd036e96",
+        "android_client_info": {
+          "package_name": "com.example.spartans_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkUgreqy3_jy5-toUCZHLubuSHr9S6G58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
